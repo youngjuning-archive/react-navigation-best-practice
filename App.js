@@ -193,7 +193,7 @@ const BottomTabScreen = () => (
   </BottomTab.Navigator>
 );
 const App = () => {
-  const routeNameRef = React.useRef();
+  const routeNameRef = React.useRef(null);
   return (
     <>
       <NavigationContainer
