@@ -5362,11 +5362,6 @@ react-native@0.61.5:
     stacktrace-parser "^0.1.3"
     whatwg-fetch "^3.0.0"
 
-react-navigation-backhandler@^1.4.0:
-  version "1.4.0"
-  resolved "http://192.168.2.116:4873/react-navigation-backhandler/-/react-navigation-backhandler-1.4.0.tgz#55217f391b56481f3b83e6009e9514fa92318e20"
-  integrity sha1-VSF/ORtWSB87g+YAnpUU+pIxjiA=
-
 react-navigation-header-buttons@^3.0.5:
   version "3.0.5"
   resolved "http://192.168.2.116:4873/react-navigation-header-buttons/-/react-navigation-header-buttons-3.0.5.tgz#5b8c0fc32bc59382f02015e4b2f19a135b99dca4"
@@ -6754,9 +6749,9 @@ xtend@~4.0.1:
   integrity sha1-u3J3n1+kZRhrH0OPZ0+jR/2121Q=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "http://192.168.2.116:4873/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
